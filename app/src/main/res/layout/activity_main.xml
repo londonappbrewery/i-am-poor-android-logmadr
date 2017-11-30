@@ -30,5 +30,5 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        app:srcCompat="@drawable/coal"/>
+        app:srcCompat="@drawable/coal" android:contentDescription="@string/desc"/>
 </RelativeLayout>
